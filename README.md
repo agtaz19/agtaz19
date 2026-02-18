@@ -67,4 +67,5 @@ Open to collaboration on quantitative research, trading systems, and
 financial technology projects.
 
 LinkedIn: [https://www.linkedin.com/in/alexandre-tilly/](https://www.linkedin.com/in/alexandre-tilly/) 
+
 Email: [agtaz19@gmail.com](agtaz19@gmail.com)
