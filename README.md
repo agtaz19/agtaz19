@@ -66,5 +66,5 @@ Multi-page dashboard for hierarchical election reporting.
 Open to collaboration on quantitative research, trading systems, and 
 financial technology projects.
 
-LinkedIn: [<link> ](https://www.linkedin.com/in/alexandre-tilly/) 
-Email: agtaz19@gmail.com
+LinkedIn: [https://www.linkedin.com/in/alexandre-tilly/](https://www.linkedin.com/in/alexandre-tilly/) 
+Email: [agtaz19@gmail.com](agtaz19@gmail.com)
