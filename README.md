@@ -18,8 +18,9 @@
 
 ```
 
-<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./path/to/your/ascii_bears.txt) -->
-<!-- MARKDOWN-AUTO-DOCS:END -->
+---
+
+<img src="./assets/parrot_party_normal.gif" width="100%" align="center">
 
 
 ---
