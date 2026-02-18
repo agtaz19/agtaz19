@@ -3,7 +3,6 @@
   (    )~~~(    )  (    )~~~(    )   (    )~~~(    )   (    )~~~(    )
    \           /    \           /     \           /     \           /
     (  ' _ `  )      (  ' _ `  )       (  ' _ `  )       (  ' _ `  )
-     \       /        \       /         \       /         \       /
    .__( `-' )          ( `-' )           ( `-' )        .__( `-' )  ___
   / !  `---' \      _--'`---_          .--`---'\       /   /`---'`-'   \
  /  \         !    /         \___     /        _>\    /   /          ._/   __
@@ -20,7 +19,7 @@
 
 ---
 
-<video autoplay loop muted playsinline src="./assets/parrot_party_normal.gif"></video>
+<video muted loop preload="auto" autoPlay playsInline src="./assets/parrot_party_normal.gif"></video>
 
 
 ---
