@@ -18,7 +18,8 @@
 
 ```
 
-[View the raw ASCII file](agtaz19/assets/ASCI_Bears.txt)
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./path/to/your/ascii_bears.txt) -->
+<!-- MARKDOWN-AUTO-DOCS:END -->
 
 
 ---
