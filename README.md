@@ -19,7 +19,7 @@
 
 ---
 
-<img src="./assets/parrot_party_normal.gif" width="100%" align="center"></img>
+<img src="./assets/parrot_party_normal.gif" width="25%" align="center"></img>
 
 
 ---
