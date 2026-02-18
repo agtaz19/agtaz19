@@ -19,7 +19,7 @@
 
 ---
 
-<video muted loop preload="auto" autoPlay playsInline src="./assets/parrot_party_normal.gif"></video>
+<img src="./assets/parrot_party_normal.gif"></img>
 
 
 ---
