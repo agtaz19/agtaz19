@@ -4,8 +4,10 @@
 
 # Alexandre Tilly
 <p>
-<a href="https://www.linkedin.com/in/alexandre-tilly/"><img src="https://img.shields.io/badge/Linked--in-Alexandre--tilly-blue?style=flat&logo=linkedin" alt="Badge"></a>&nbsp;
-
+  <a href="https://www.linkedin.com/in/alexandre-tilly/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoSize=auto" alt="LinkedIn"></a>&nbsp;
+  <a href="https://github.com/agtaz19"><img src="https://img.shields.io/badge/Github%3A%20agtaz19-black?style=flat&logo=github&logoSize=auto" alt="Github"></a>&nbsp;
+  <a href="https://agtaz19.github.io"><img src="https://img.shields.io/badge/Portfolio%20Website-lightgrey?style=flat&logo=awwwards&logoSize=auto" alt="Badge"></a>&nbsp;
+  <a href="mailto:agtaz19@gmail.com"><img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail&logoSize=auto" alt="Email"></a>&nbsp;
 </p>
 
 Quantitative Finance | Systematic Investing | Enterprise Transformation
