@@ -1,30 +1,11 @@
- ```text
-  _--_     _--_    _--_     _--_     _--_     _--_     _--_     _--_
-  (    )~~~(    )  (    )~~~(    )   (    )~~~(    )   (    )~~~(    )
-   \           /    \           /     \           /     \           /
-    (  ' _ `  )      (  ' _ `  )       (  ' _ `  )       (  ' _ `  )
-   .__( `-' )          ( `-' )           ( `-' )        .__( `-' )  ___
-  / !  `---' \      _--'`---_          .--`---'\       /   /`---'`-'   \
- /  \         !    /         \___     /        _>\    /   /          ._/   __
-!   /\        )   /   /       !  \   /  /-___-'   ) /'   /.-----\___/     /  )
-!   !_\       ). (   <        !__/ /'  (        _/  \___//          `----'   !
- \    \       ! \ \   \      /\    \___/`------' )       \            ______/
-  \___/   )  /__/  \--/   \ /  \  ._    \      `<         `--_____----'
-    \    /   !       `.    )-   \/  ) ___>-_     \   /-\    \    /
-    /   !   /         !   !  `.    / /      `-_   `-/  /    !   !
-   !   /__ /___       /  /__   \__/ (  \---__/ `-_    /     /  /__
-   (______)____)     (______)        \__)         `-_/     (______)
-
-```
-
----
-
-<img src="./assets/parrot_party_normal.gif" height="50%" width="25%" align="center"></img>
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 
 
 ---
 
 # Alexandre Tilly
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manumanoj0010/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:manumanoj0010@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/manumanoj0010) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/manumanoj.me) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)
+
 
 Quantitative Finance | Systematic Investing | Enterprise Transformation
 
