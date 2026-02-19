@@ -81,3 +81,10 @@ Multi-page dashboard for hierarchical election reporting.
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
 </p>
+
+## Planned Updates:
+I am planning on updating somethings to this read me:
+
+1. Torus in the header
+2. Update content to reflect current activity and highlight personal projects
+3. Talk about organizations and involvement
