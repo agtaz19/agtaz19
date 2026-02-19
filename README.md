@@ -1,7 +1,8 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-<a href="https://www.asciiart.eu/animations/ascii-spinning-donut">ASCII Art Archive – The home of classic text art</a>
-
+<a href="https://www.asciiart.eu">
+  <img src="https://www.asciiart.eu/banner.png" alt="ASCII Art Archive" style="border:0;">
+</a>
 
 ---
 
