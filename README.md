@@ -4,7 +4,7 @@
 
 # Alexandre Tilly
 <p>
-<img src="https://img.shields.io/badge/Linked--in-Alexandre--tilly-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexandre-tilly%2F&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexandre-tilly%2F" alt="Badge">&nbsp;
+<a href="https://www.linkedin.com/in/alexandre-tilly/"><img src="https://img.shields.io/badge/Linked--in-Alexandre--tilly-blue?style=flat&logo=linkedin" alt="Badge"></a>&nbsp;
 
 </p>
 
