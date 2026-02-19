@@ -5,13 +5,15 @@
 <a href="mailto:agtaz19@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://agtaz19.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>&nbsp;
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=agtaz19&label=Profile%20views&color=0e75b6&style=flat" alt="agtaz19" /> ![GitHub followers](https://img.shields.io/github/followers/agtaz19) ![GitHub User's stars](https://img.shields.io/github/stars/agtaz19)
 <!-- <a href="https://www.asciiart.eu">
   <img src="https://www.asciiart.eu/banner.png" alt="ASCII Art Archive" style="border:0;">
 </a> -->
 
 ---
 
-# Alexandre Tilly &nbsp; <img src="https://komarev.com/ghpvc/?username=agtaz19&label=Profile%20views&color=0e75b6&style=flat" alt="agtaz19" /> ![GitHub followers](https://img.shields.io/github/followers/agtaz19) ![GitHub User's stars](https://img.shields.io/github/stars/agtaz19)
+# Alexandre Tilly &nbsp; 
 
 <br>
 Quantitative Finance | Systematic Investing | Enterprise Transformation
