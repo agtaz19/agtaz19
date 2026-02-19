@@ -9,10 +9,9 @@
 ---
 
 # Alexandre Tilly &nbsp; <img src="https://komarev.com/ghpvc/?username=agtaz19&label=Profile%20views&color=0e75b6&style=flat" alt="agtaz19" /> ![GitHub followers](https://img.shields.io/github/followers/agtaz19) ![GitHub User's stars](https://img.shields.io/github/stars/agtaz19)
-
+Quantitative Finance | Systematic Investing | Enterprise Transformation
 
 <br>
-Quantitative Finance | Systematic Investing | Enterprise Transformation
 
 I design and implement data-driven systems for financial decision-making — 
 from crisis-investing frameworks and trading simulations to large-scale 
