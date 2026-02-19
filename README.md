@@ -6,7 +6,7 @@
 
 ---
 
-# Alexandre Tilly
+# Alexandre Tilly <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
 <p>
   <a href="https://www.linkedin.com/in/alexandre-tilly/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoSize=auto" alt="LinkedIn"></a>&nbsp;
   <a href="https://github.com/agtaz19"><img src="https://img.shields.io/badge/Github%3A%20agtaz19-black?style=flat&logo=github&logoSize=auto" alt="Github"></a>&nbsp;
