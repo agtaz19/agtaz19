@@ -1,4 +1,6 @@
-[Alt Text](assets/ascii_torus.gif)
+=======
+![Alt Text](assets/ascii_torus.gif)
+>>>>>>> ebbe58c34fac6ad815cacac474a6b904d41e2829
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandre-tilly"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
