@@ -1,59 +1,53 @@
-<svg viewBox="0 0 1600 900" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject x="0" y="0" width="1600" height="900">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: transparent; overflow: hidden; font-family: monospace;">
-      <pre id="torus-render" style="font-size: 14px; line-height: 12px; font-weight: bold; cursor: default;"></pre>
-    </div>
+<!DOCTYPE html>
+<html>
+<body style="margin:0; background:transparent; display:flex; justify-content:center; align-items:center; height:100vh;">
+<canvas id="torus" width="800" height="450"></canvas>
+<script>
+const canvas = document.getElementById('torus');
+const ctx = canvas.getContext('2d');
+let A = 0, B = 0;
 
-    <script>
-      (function() {
-        const pre = document.getElementById('torus-render');
-        let A = 1, B = 1;
-        
-        // Sunset color palette cycle
-        const colors = ["#FF4500", "#FF8C00", "#FFD700", "#FF6347", "#8B0000"];
-        
-        function render() {
-          let b = [];
-          let z = [];
-          let [x, y] = [80, 40]; // Canvas size for ASCII
-          A += 0.07; B += 0.03;
-          let cA = Math.cos(A), sA = Math.sin(A), cB = Math.cos(B), sB = Math.sin(B);
-          
-          for (let k = 0; k < 3200; k++) {
-            b[k] = ' ';
-            z[k] = 0;
-          }
+function render() {
+    ctx.clearRect(0, 0, 800, 450);
+    ctx.font = "12px monospace";
+    
+    let b = [];
+    let z = [];
+    A += 0.07; B += 0.03;
+    
+    // Sunset color palette
+    const colors = ["#FF5E5B", "#FF8C42", "#FFC15E", "#F9F871"];
 
-          for (let j = 0; j < 6.28; j += 0.3) {
-            let ct = Math.cos(j), st = Math.sin(j);
-            for (let i = 0; i < 6.28; i += 0.1) {
-              let sp = Math.sin(i), cp = Math.cos(i), h = ct + 2;
-              let D = 1 / (sp * h * sA + st * cA + 5);
-              let t = sp * h * cA - st * sA;
-              let px = Math.floor(40 + 30 * D * (cp * h * cB - t * sB));
-              let py = Math.floor(20 + 15 * D * (cp * h * sB + t * cB));
-              let o = px + 80 * py;
-              let N = Math.floor(8 * ((st * sA - sp * ct * cA) * cB - sp * ct * sA - st * cA - cp * ct * sB));
-              
-              if (py >= 0 && py < 40 && px >= 0 && px < 80 && D > z[o]) {
-                z[o] = D;
-                b[o] = ".,-~:;=!*#$@"[N > 0 ? N : 0];
-              }
+    for (let j = 0; j < 6.28; j += 0.3) {
+        for (let i = 0; i < 6.28; i += 0.1) {
+            let c = Math.sin(i), d = Math.cos(j), e = Math.sin(A), f = Math.sin(j), g = Math.cos(A),
+                h = d + 2, D = 1 / (c * h * e + f * g + 5), l = Math.cos(i), m = Math.cos(B), n = Math.sin(B),
+                t = c * h * g - f * e;
+            let x = 0 | (40 + 30 * D * (l * h * m - t * n));
+            let y = 0 | (12 + 15 * D * (l * h * n + t * m));
+            let o = 0 | (40 + 80 * D * (c * h * g - f * e));
+            if (y < 22 && y >= 0 && x >= 0 && x < 80 && D > (z[x + 80 * y] || 0)) {
+                z[x + 80 * y] = D;
+                b[x + 80 * y] = ".:-=+*#%@"[o % 9];
             }
-          }
-          
-          pre.innerHTML = b.join('');
-          pre.style.color = colors[Math.floor(Date.now() / 1000 % colors.length)];
-          pre.style.textShadow = "2px 2px 5px rgba(255, 69, 0, 0.5)";
-          requestAnimationFrame(render);
         }
-        render();
-      })();
-    </script>
-  </foreignObject>
-</svg>
----
+    }
 
+    // Draw with Shadow and Sunset Colors
+    ctx.shadowBlur = 10;
+    ctx.shadowColor = "#FF5E5B";
+    ctx.fillStyle = "#FFC15E";
+    for (let i = 0; i < 80 * 22; i++) {
+        let x = (i % 80) * 10;
+        let y = (Math.floor(i / 80)) * 20;
+        if (b[i]) ctx.fillText(b[i], x, y);
+    }
+    requestAnimationFrame(render);
+}
+render();
+</script>
+</body>
+</html>
 
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
