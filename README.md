@@ -58,13 +58,13 @@ Multi-page dashboard for hierarchical election reporting.
 
 ## Professional Experience
 
-**FTI Consulting — Business Transformation**
-- Enterprise process optimization and operating model design
-- Financial services engagements including prime services initiatives
-
 **State Street — Alternative Investments**
 - Business transformation across investment operations
 - Focus on scalability, risk controls, and operational efficiency
+
+**FTI Consulting — Business Transformation**
+- Enterprise process optimization and operating model design
+- Financial services engagements including prime services initiatives
 
 ## Research & Competitions
 
@@ -85,9 +85,8 @@ Multi-page dashboard for hierarchical election reporting.
 ## Planned Updates:
 I am planning on updating somethings to this read me:
 
-1. Torus in the header
-2. Update content to reflect current activity and highlight personal projects
-3. Talk about organizations and involvement
+1. Update content to reflect current activity and highlight personal projects
+2. Talk about organizations and involvement
 
 ---
 
