@@ -1,3 +1,61 @@
+<svg viewBox="0 0 1600 900" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="1600" height="900">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: transparent; overflow: hidden; font-family: monospace;">
+      <pre id="torus-render" style="font-size: 14px; line-height: 12px; font-weight: bold; cursor: default;"></pre>
+    </div>
+
+    <script>
+      (function() {
+        const pre = document.getElementById('torus-render');
+        let A = 1, B = 1;
+        
+        // Sunset color palette cycle
+        const colors = ["#FF4500", "#FF8C00", "#FFD700", "#FF6347", "#8B0000"];
+        
+        function render() {
+          let b = [];
+          let z = [];
+          let [x, y] = [80, 40]; // Canvas size for ASCII
+          A += 0.07; B += 0.03;
+          let cA = Math.cos(A), sA = Math.sin(A), cB = Math.cos(B), sB = Math.sin(B);
+          
+          for (let k = 0; k < 3200; k++) {
+            b[k] = ' ';
+            z[k] = 0;
+          }
+
+          for (let j = 0; j < 6.28; j += 0.3) {
+            let ct = Math.cos(j), st = Math.sin(j);
+            for (let i = 0; i < 6.28; i += 0.1) {
+              let sp = Math.sin(i), cp = Math.cos(i), h = ct + 2;
+              let D = 1 / (sp * h * sA + st * cA + 5);
+              let t = sp * h * cA - st * sA;
+              let px = Math.floor(40 + 30 * D * (cp * h * cB - t * sB));
+              let py = Math.floor(20 + 15 * D * (cp * h * sB + t * cB));
+              let o = px + 80 * py;
+              let N = Math.floor(8 * ((st * sA - sp * ct * cA) * cB - sp * ct * sA - st * cA - cp * ct * sB));
+              
+              if (py >= 0 && py < 40 && px >= 0 && px < 80 && D > z[o]) {
+                z[o] = D;
+                b[o] = ".,-~:;=!*#$@"[N > 0 ? N : 0];
+              }
+            }
+          }
+          
+          pre.innerHTML = b.join('');
+          pre.style.color = colors[Math.floor(Date.now() / 1000 % colors.length)];
+          pre.style.textShadow = "2px 2px 5px rgba(255, 69, 0, 0.5)";
+          requestAnimationFrame(render);
+        }
+        render();
+      })();
+    </script>
+  </foreignObject>
+</svg>
+---
+
+
+
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
 <p align="center">
