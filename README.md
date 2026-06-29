@@ -77,11 +77,11 @@ Multi-page dashboard for hierarchical election reporting.
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://www.linkedin.com/in/alexandre-tilly/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  <a href="https://www.linkedin.com/in/alexandre-tilly"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 
-###Planned Updates:
+### Planned Updates:
 I am planning on updating somethings to this read me:
 
 1. Update content to reflect current activity and highlight personal projects
