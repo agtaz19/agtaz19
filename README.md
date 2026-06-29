@@ -9,7 +9,7 @@
 ---
 
 # Alexandre Tilly &nbsp; <img src="https://komarev.com/ghpvc/?username=agtaz19&label=Profile%20views&color=0e75b6&style=flat" alt="agtaz19" /> ![GitHub followers](https://img.shields.io/github/followers/agtaz19) ![GitHub User's stars](https://img.shields.io/github/stars/agtaz19)
-Quantitative Finance | Systematic Investing | Enterprise Transformation
+*Quantitative Finance | Systematic Investing | Enterprise Transformation*
 
 <br>
 
