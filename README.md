@@ -1,4 +1,4 @@
-![Alt Text](agtaz19/assets/ascii_torus.gif)
+![Alt Text](assets/ascii_torus.gif)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandre-tilly"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
