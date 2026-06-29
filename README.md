@@ -75,8 +75,8 @@ Multi-page dashboard for hierarchical election reporting.
 ## Contact
 
 <p align="center" > 
-  <i>Thanks for passing by</i><br><br>
-  <i>Feel free to connect with me</i><br><br>
+  <i>Thanks for passing by...</i><br><br>
+Networking and building my network are very important to me, if you plan to reach out to me for networking opportunities, please have a well defined goal and mention a book that you are currently reading. Feel free to connect with me:<br><br>
   <a href="https://www.linkedin.com/in/alexandre-tilly"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
